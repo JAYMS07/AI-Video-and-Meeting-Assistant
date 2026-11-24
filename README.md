@@ -1,1 +1,1 @@
-# Enterprise-Agentic-RAG-Platform
+AI Video and Meeting Assistant
